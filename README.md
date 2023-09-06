@@ -1,6 +1,6 @@
 # CSV Table Serializer
 
-A Python application that allows you to generate tables from CSV files using the Pandas library. It also utilizes an HTML template to format and display these tables.
+A Python application that allows you to generate tables from CSV file using the Pandas library. It also utilizes an HTML template to format and display these tables.
 
 ## Technologies Used
 
